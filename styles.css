@@ -1,0 +1,16 @@
+body {
+    background-color: #f4f4f9;
+    color: #333;
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    padding-top: 50px;
+}
+
+.search-bar input,
+.search-bar button {
+    width: 100%;
+}
